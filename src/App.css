@@ -2,6 +2,11 @@ h1 {
     text-align: center;
 }
 
+#resetButton {
+    text-align: center;
+}
+
+
 .square {
     height: 200px;
     width: 200px;
